@@ -1,6 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimBorodin&count_private=true&show_icons=true&theme=dark)
+![man-hand-holding-light-bulb-room_34152-1910](https://user-images.githubusercontent.com/39966270/123290428-ef435c80-d519-11eb-8984-843e14ea93c7.jpeg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimBorodin&layout=compact&theme=dark)](https://github.com/VadimBorodin/github-readme-stats)
+Hi, I'am Vadim. I am Software Engineer from Moldova 🇲🇩.
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+I work at [BinarCode](https://www.binarcode.com/) as a Web Developer.
